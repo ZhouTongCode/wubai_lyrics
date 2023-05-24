@@ -35,3 +35,5 @@ github項目地址: [ZhouTongCode/wubai_lyrics: 伍佰歌詞大全 (github.com)]
 - 在那遙遠的地方
 - 純白的起點
 - 妳是我的完美
+- 孤寂的兵
+- 夜襲
