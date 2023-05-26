@@ -37,3 +37,5 @@ github項目地址: [ZhouTongCode/wubai_lyrics: 伍佰歌詞大全 (github.com)]
 - 妳是我的完美
 - 孤寂的兵
 - 夜襲
+- 退伍令
+- 福爾摩莎
