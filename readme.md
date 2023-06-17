@@ -40,3 +40,8 @@ github項目地址: [ZhouTongCode/wubai_lyrics: 伍佰歌詞大全 (github.com)]
 - 退伍令
 - 福爾摩莎
 - 樂芙
+- 天使
+- 純白的起點
+- 嫦娥
+- 晴天雨天
+- 筆畫
